@@ -1,0 +1,3 @@
+git clone https://github.com/abdullarahaman/old-2009
+cd old-2009
+python old-2009.py
